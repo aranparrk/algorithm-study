@@ -52,10 +52,10 @@ algorithm-study/
 
 | Type | 의미 |
 | --- | --- |
-| `add` | 새로운 문제 풀이 추가 |
-| `fix` | 오답 또는 오류 수정 |
-| `refactor` | 풀이 로직이나 코드 구조 개선 |
-| `docs` | README 등 문서 수정 |
+| `✨ add` | 새로운 문제 풀이 추가 |
+| `🐛 fix` | 오답 또는 오류 수정 |
+| `♻️ refactor` | 풀이 로직이나 코드 구조 개선 |
+| `📝 docs` | README 등 문서 수정 |
 
 ```text
 ✨ add: 문제 풀이 추가
